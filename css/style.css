@@ -1,0 +1,37 @@
+img{
+  width: 200px;
+  border-radius: 100%;
+}
+
+div{
+  width: 800px;
+  border-radius: 5px;
+  background-color: rgba(204, 192, 102, 0.5);
+  color: white;
+  margin: auto;
+  padding: 50px;
+}
+
+img{
+  float: left;
+}
+
+h1{
+  float: left;
+  margin-left: 50px;
+}
+
+header{
+  height: 250px;
+  line-height: 200px;
+}
+
+body{
+  background-image: url(../images/papeles.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+span{
+  color: red;
+}
